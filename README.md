@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Li-create2021
 - 👀 I’m interested in coding, yoga and wellness.
-- 🌱 I’m currently learning HTML, CSS, JS
+- 🌱 I’ve got experience with HTML, CSS, JS, ReactJS, Node.js, Express and SQL
 - 💞️ I’m looking to collaborate on all projects
 - 📫 How to reach me on slack: Liana van Zyl
 
