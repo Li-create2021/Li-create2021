@@ -23,9 +23,13 @@ Wild Code School 5 months intensive training using Agile and Scrum methodologies
 -Relational Databases
 
 # Projects
-https://music-event-maniac.netlify.app/
+https://music-event-maniac.netlify.app/ 
+
 https://veganplus.netlify.app/
+
 https://instant-chef.netlify.app/
+
+# Contact Me
 
 📧 lianavanzyl.webdev@gmail.com
 📞 +34 645 664 687
