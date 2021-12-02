@@ -32,6 +32,7 @@ https://instant-chef.netlify.app/
 # Contact Me
 
 📧 lianavanzyl.webdev@gmail.com
+
 📞 +34 645 664 687
 
 # View my full CV
