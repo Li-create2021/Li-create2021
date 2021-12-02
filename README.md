@@ -1,10 +1,29 @@
-- 👋 Hi, I’m @Li-create2021
-- 👀 I’m interested in coding, yoga and wellness.
-- 🌱 I’ve got experience with HTML, CSS, JS, ReactJS, Node.js, Express and SQL
-- 💞️ I’m looking to collaborate on all projects
-- 📫 How to reach me on slack: Liana van Zyl
+# 👋 Hi, I’m Liana van Zyl
 
-<!---
-Li-create2021/Li-create2021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Junior Full Stack Developer. 
+
+Passionate about new technologies and not afraid to learn. 
+
+My previous skills as an entrepreneur together with my skills as a developer enables me to be good at planning, analytical and decision making. 
+
+I have a solid understanding of web design and development principles.
+
+# Education
+Full stack web and mobile developer (2021-2022)
+Wild Code School 5 months intensive training using Agile and Scrum methodologies together with: 
+
+🦹🏼‍♀️ HTML 
+-CSS
+-SQL 
+-Express
+-React
+-NodeJS
+-REST API
+-Styled-components
+-Relational Databases
+
+📧 lianavanzyl.webdev@gmail.com
+📞 +34 645 664 687
+
+# View my full CV
+[Liana van Zyl CV WebDev.pdf](https://github.com/Li-create2021/Li-create2021/files/7642442/Liana.van.Zyl.CV.WebDev.6.pdf)
