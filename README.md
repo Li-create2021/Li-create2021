@@ -10,6 +10,7 @@ I have a solid understanding of web design and development principles.
 
 # Education
 Full stack web and mobile developer (2021-2022)
+
 Wild Code School 5 months intensive training using Agile and Scrum methodologies together with: 
 
 🦹🏼‍♀️ HTML 
