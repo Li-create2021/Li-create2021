@@ -30,6 +30,8 @@ https://veganplus.netlify.app/
 
 https://instant-chef.netlify.app/
 
+URL:https://www.codewars.com/users/Li-create2021/badges/large
+
 # Contact Me
 
 📧 lianavanzyl.webdev@gmail.com
