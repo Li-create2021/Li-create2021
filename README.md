@@ -1,6 +1,4 @@
-# 👋 Hi, I’m Liana van Zyl
-
-![Codewars](https://www.codewars.com/users/Li-create2021/badges/large)
+# 👋 Hi, I’m Liana van Zyl ![Codewars](https://www.codewars.com/users/Li-create2021/badges/large)
 
 I'm a Junior Full Stack Developer. 
 
