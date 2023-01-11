@@ -32,6 +32,8 @@ https://instant-chef.netlify.app/
 
 URL:https://www.codewars.com/users/Li-create2021/badges/large
 
+<a href="(https://www.codewars.com/users/Li-create2021/badges/large)"><img src="(https://www.codewars.com/users/Li-create2021/badges/large)" /></a> 
+
 # Contact Me
 
 📧 lianavanzyl.webdev@gmail.com
