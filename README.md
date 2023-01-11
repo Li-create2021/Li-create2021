@@ -1,5 +1,7 @@
 # 👋 Hi, I’m Liana van Zyl
 
+![Codewars](https://www.codewars.com/users/Li-create2021/badges/large)
+
 I'm a Junior Full Stack Developer. 
 
 Passionate about new technologies and not afraid to learn. 
@@ -30,8 +32,6 @@ https://veganplus.netlify.app/
 
 https://instant-chef.netlify.app/
 
-
-<a href="[(https://www.codewars.com/users/Li-create2021/badges/large)]"><img src="(https://www.codewars.com/users/Li-create2021/badges/large)" /></a> 
 
 # Contact Me
 
