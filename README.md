@@ -15,9 +15,8 @@ Wild Code School 5 months intensive training using Agile and Scrum methodologies
 
 🦹🏼‍♀️ HTML 
 -CSS
--SQL 
--Express
--React
+-ReactJS
+-NextJS
 -NodeJS
 -REST API
 -Styled-components
@@ -36,4 +35,6 @@ https://instant-chef.netlify.app/
 📧 lianavanzyl.webdev@gmail.com
 
 # View my full CV
-[Liana van Zyl CV WebDev.pdf](https://github.com/Li-create2021/Li-create2021/files/7642442/Liana.van.Zyl.CV.WebDev.6.pdf)
+[Liana van Zyl-FrontendDev.pdf](https://github.com/Li-create2021/Li-create2021/files/11600695/Liana.van.Zyl-FrontendDev.pdf)
+
+
