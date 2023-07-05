@@ -34,7 +34,5 @@ https://instant-chef.netlify.app/
 
 📧 lianavanzyl.webdev@gmail.com
 
-# View my full CV
-[Liana van Zyl-FrontendDev.pdf](https://github.com/Li-create2021/Li-create2021/files/11600695/Liana.van.Zyl-FrontendDev.pdf)
 
 
